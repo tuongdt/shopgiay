@@ -305,4 +305,46 @@
     "$date": "2024-08-16T18:02:04.582Z"
   },
   "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801463ed3d13384271f5ae5"
+  },
+  "userId": "680145f6d3d13384271f5acc",
+  "totalAmount": 13998000,
+  "shippingAddress": {
+    "street": "gò vấp",
+    "ward": "Phường 8",
+    "district": "Quận Gò Vấp",
+    "city": "Thành phố Hồ Chí Minh"
+  },
+  "paymentMethod": "card",
+  "status": "pending",
+  "details": [
+    {
+      "productId": "669da7e9803ce633848c1bbf",
+      "name": "Giày ADIDAS SB Dunk Low J-Pack ‘Chicago’ BQ6817-600 ",
+      "quantity": 1,
+      "price": 6999000,
+      "_id": {
+        "$oid": "6801463ed3d13384271f5ae6"
+      }
+    },
+    {
+      "productId": "669da96f803ce633848c1bc0",
+      "name": "Giày ADIDAS SB Dunk Low J-Pack ‘Chicago’ BQ6817-600 ",
+      "quantity": 1,
+      "price": 6999000,
+      "_id": {
+        "$oid": "6801463ed3d13384271f5ae7"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-04-17T18:19:42.617Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-17T18:19:42.617Z"
+  },
+  "__v": 0
 }]

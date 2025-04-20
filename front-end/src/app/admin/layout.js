@@ -59,7 +59,7 @@ export default function RootLayout({ children }) {
                       <Link className="nav-link dropdown-toggle" href="#"  role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         <img src="https://i1-giaitri.vnecdn.net/2020/03/29/991816090-56782878-2.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FalyTpb6BDBE3vFkujJ-TQ" alt="" width="32" height="32" className="rounded-circle me-2" />
                         <i class= "bi bi-person fs-5  fw-bolder text-dark"  />
-                        <strong>NGuyễn CÔng Bền </strong>
+                        <strong>Đinh Văn Tường </strong>
                       </Link>
                       <ul className="dropdown-menu rounded-0 dropdown-menu-md-end">
                         <li><a className="dropdown-item" href="#">Profile</a></li>

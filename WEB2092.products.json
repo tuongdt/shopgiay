@@ -40,7 +40,7 @@
   "_id": {
     "$oid": "669da7e9803ce633848c1bbf"
   },
-  "name": "Giày ADIDAS SB Dunk Low J-Pack ‘Chicago’ BQ6817-600 ",
+  "name": "Giày ADIDAS SB Dunk Low J-Pack ‘Chicago ",
   "category": {
     "_id": {
       "$oid": "66897943f9068eac480fc0ea"
@@ -59,7 +59,7 @@
   "_id": {
     "$oid": "669da96f803ce633848c1bc0"
   },
-  "name": "Giày ADIDAS SB Dunk Low J-Pack ‘Chicago’ BQ6817-600 ",
+  "name": "Giày ADIDAS SB Dunk Low J-Pack ‘Chicago’\n ",
   "category": {
     "_id": {
       "$oid": "66897943f9068eac480fc0ea"
@@ -97,7 +97,7 @@
   "_id": {
     "$oid": "669da9be803ce633848c1bc2"
   },
-  "name": "Giày Adidas Stan Smith Sharpie Pack Graffiti ‘White Green’ GV9800 ",
+  "name": "Giày Adidas Stan Smith Sharpie Pack Graffiti\n",
   "category": {
     "_id": {
       "$oid": "66897991f9068eac480fc0ec"
@@ -114,133 +114,39 @@
 },
 {
   "_id": {
-    "$oid": "66a86c18d3f6d760a0987d4b"
+    "$oid": "6801b99ad89343d130a52d8e"
   },
-  "name": "Product Name",
+  "name": "Giày Nike Air Force 1 Low College Pack Midnight Navy\n",
   "category": {
-    "$oid": "66897991f9068eac480fc0ec"
+    "_id": {
+      "$oid": "66897991f9068eac480fc0ec"
+    }
   },
-  "sale": 20,
-  "description": "This is a product description.",
-  "price": 150,
-  "content": "Detailed product content here.",
-  "view": 100,
-  "inventory": 50,
-  "rating": 4,
-  "image": "1722384974579-309089228-product-bl-6.jpg",
-  "images": [
-    "image1.jpg",
-    "image2.jpg"
-  ],
-  "updatedAt": {
-    "$date": "2024-07-31T00:16:14.605Z"
-  }
+  "sale": 25,
+  "description": "Từ chương trình Colors College đến loạt sản phẩm CO.JP sôi động của Nike, giày Nike Dunk đã được thể hiện nhiều màu sắc kể từ khi thiết kế ra mắt vào năm 1985. Nhưng với mỗi màu sắc mới, giày Dunk vẫn giữ được đặc điểm color-blocking truyền thống trong một số mức nào đó. Nike đã áp dụng color-blocking truyền thống của mình vào giày Nike Dunk Low Retro White Black.\n\nPhần trên cao của giày Nike Dunk Low Retro White Black được làm bằng da trắng với các lớp phủ và Swoosh bằng da đen. Nhãn hiệu Nike classic được xuất hiện trên lưỡi dai nylon, gợi nhớ đến các yếu tố thiết kế truyền thống của giày Dunk. Đế giữa và đế ngoài bằng trắng và đen hoàn thành thiết kế.\n\nGiày Nike Dunk Low Retro White Black được phát hành vào tháng 3 năm 2021 và bán lẻ với giá 100 USD.\n\nĐể mua sắm tất cả các loại giày Nike Dunk, vui lòng click vào đây.",
+  "price": 1795000,
+  "content": "Phong cách thời thượng , sản phẩm may chỉ cao cấp",
+  "image": "product7.jpg",
+  "view": 200,
+  "inventory": 30,
+  "rating": 4
 },
 {
   "_id": {
-    "$oid": "66a91a33a9089946a2ac4aa1"
+    "$oid": "6801ba9fd89343d130a52d8f"
   },
-  "name": "Rioh",
+  "name": "Giày Adidas Supernova Stride Nữ - Hồng",
   "category": {
-    "$oid": "66897943f9068eac480fc0ea"
+    "_id": {
+      "$oid": "66897943f9068eac480fc0ea"
+    }
   },
-  "sale": 11,
-  "description": "1111",
-  "price": 900000,
-  "content": "11",
-  "image": "1722358323198-717459749-2014098.jpg",
-  "images": [
-    "1722358323215-475688608-5875370.jpg"
-  ],
-  "view": 1,
-  "inventory": 1,
-  "rating": 1,
-  "createdAt": {
-    "$date": "2024-07-30T16:52:03.283Z"
-  },
-  "updatedAt": {
-    "$date": "2024-07-30T16:52:03.283Z"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "66a91a35a9089946a2ac4aa4"
-  },
-  "name": "Rioh",
-  "category": {
-    "$oid": "66897943f9068eac480fc0ea"
-  },
-  "sale": 11,
-  "description": "1111",
-  "price": 900000,
-  "content": "11",
-  "image": "1722358325184-436199144-2014098.jpg",
-  "images": [
-    "1722358325192-905343407-5875370.jpg"
-  ],
-  "view": 1,
-  "inventory": 1,
-  "rating": 1,
-  "createdAt": {
-    "$date": "2024-07-30T16:52:05.232Z"
-  },
-  "updatedAt": {
-    "$date": "2024-07-30T16:52:05.232Z"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "66a91a35a9089946a2ac4aa7"
-  },
-  "name": "Hahahaha Hu",
-  "category": {
-    "$oid": "66897991f9068eac480fc0ec"
-  },
-  "sale": 11,
-  "description": "1111",
-  "price": 900000,
-  "content": "11",
-  "image": "1722358325411-153154336-2014098.jpg",
-  "images": [
-    "1722358325417-709141786-5875370.jpg"
-  ],
-  "view": 1,
-  "inventory": 1,
-  "rating": 1,
-  "createdAt": {
-    "$date": "2024-07-30T16:52:05.447Z"
-  },
-  "updatedAt": {
-    "$date": "2024-07-30T17:15:46.299Z"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "66a98899cc51abc4e3853e5e"
-  },
-  "name": "Nuyen Cong Ben",
-  "category": {
-    "$oid": "66897991f9068eac480fc0ec"
-  },
-  "sale": 22,
-  "description": "ahaha",
-  "price": 12222,
-  "content": "huhu",
-  "image": "1722386749349-206872128-product-bl-6.jpg",
-  "images": [
-    "1722386584991-327566962-danhmuc-bancelona.jpg"
-  ],
-  "view": 33,
-  "inventory": 344,
-  "rating": 4,
-  "createdAt": {
-    "$date": "2024-07-31T00:43:05.058Z"
-  },
-  "updatedAt": {
-    "$date": "2024-07-31T00:45:49.364Z"
-  },
-  "__v": 0
+  "sale": 10,
+  "description": " Nike đã lại một lần nữa làm nên điều kỳ diệu với thiết kế giày Nike Dunk Low USC, mã số DD1391-602 với màu sắc chính thức của đội bóng Trojans thuộc Đại học Nam California.\n\nNike Dunk Low USC được làm từ chất liệu da cho phần đầu giày và cao su cho phần đế. Giày Nike Dunk Low USC có một tông màu gồm trắng, gym red và vàng phủ 90% phần đầu giày, với thương hiệu Nike màu vàng ở gót và lưỡi giày. Một phần mũi giày được làm từ chất liệu da trắng lỗ và logo Swoosh màu đỏ suede hoàn thiện thiết kế của đôi giày này.\n\nNike Dunk Low USC được phát hành với giá bán lẻ là $100 vào ngày 9 tháng 11 năm 2022.",
+  "price": 3499000,
+  "content": "Phong cách sang trọng , sản phẩm được làm bằng thủ công ",
+  "image": "product8.jpg",
+  "view": 90,
+  "inventory": 20,
+  "rating": 5
 }]

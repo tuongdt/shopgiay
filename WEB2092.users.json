@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "669dc131e94d8c7485507037"
+  },
+  "username": "congben 04",
+  "email": "hi@gmail.com",
+  "password": "$2a$10$Xn4171B0h9iXPuzJT3t0ne1QsZkX8y9AiGFL9l7dLJ6oUwEJ0VKPe",
+  "phone": "0869959080",
+  "address": "30",
+  "role": "user",
+  "createdAt": {
+    "$date": "2024-07-22T02:17:21.007Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac368398a34006b03625fc"
+  },
+  "username": "nhịn",
+  "email": "a@gmail.com",
+  "password": "$2a$10$XfyE.e8EBhmo3TlYshvs4uB9rAGU/WNXdhYCepQdaVYeoeT5MM7Ii",
+  "phone": "0869959080",
+  "address": "364 tô kí",
+  "role": "user",
+  "createdAt": {
+    "$date": "2024-08-02T01:29:39.151Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67fe8b4d2a67ef08aa0aa48c"
+  },
+  "username": "vantuong",
+  "email": "dinhvantuong2192005@gmail.com",
+  "password": "$2a$10$FIM.Vbn61TX4qBgb/n6VpOuGRYSr3mzz8uuoW0em8VZhKGczBBeHi",
+  "phone": "0349620441",
+  "address": "Quang Trung, Gò Vấp, Thành Phố Hồ Chí Minh",
+  "role": "admin",
+  "avatar": "uploads/avatars/default-avatar.jpg",
+  "createdAt": {
+    "$date": "2025-04-15T16:37:33.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680145f6d3d13384271f5acc"
+  },
+  "username": "vantuong12345",
+  "email": "daokhobau@gmail.com",
+  "password": "$2a$10$wtSlGdeP/2UyH59CEqgthurN/tyHWaUQ7istizknKMVnwyAha5gQa",
+  "phone": "0349620441",
+  "address": "gò vấp",
+  "role": "user",
+  "avatar": "uploads/avatars/default-avatar.jpg",
+  "createdAt": {
+    "$date": "2025-04-17T18:18:30.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801c4b358480549a5c6ffd9"
+  },
+  "username": "vantuong12345",
+  "email": "tuong@gmail.com",
+  "password": "$2a$10$O.lWVIhe1A4z87c3ftTOCOU0jS.lz.k2Gf02UnjODLiPTSzvClVMm",
+  "phone": "0349620441",
+  "address": "gò vấp",
+  "role": "user",
+  "avatar": "uploads/avatars/default-avatar.jpg",
+  "createdAt": {
+    "$date": "2025-04-18T03:19:15.679Z"
+  },
+  "__v": 0
+}]
