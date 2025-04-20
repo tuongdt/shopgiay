@@ -1,0 +1,308 @@
+[{
+  "_id": {
+    "$oid": "66b1e4d2fdb45729cd797aad"
+  },
+  "userId": "66b1907bdfdbc370adec10d4",
+  "totalAmount": 13999000,
+  "shippingAddress": {
+    "street": "364 tô kí",
+    "ward": "Ward name",
+    "district": "District name",
+    "city": "City name"
+  },
+  "paymentMethod": "cash",
+  "status": "cancelled",
+  "details": [
+    {
+      "productId": "669da7e9803ce633848c1bbf",
+      "quantity": 1,
+      "price": 6999000,
+      "_id": {
+        "$oid": "66b1e4d2fdb45729cd797aae"
+      }
+    },
+    {
+      "productId": "66897c73f9068eac480fc0fa",
+      "quantity": 2,
+      "price": 3500000,
+      "_id": {
+        "$oid": "66b1e4d2fdb45729cd797aaf"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-06T08:54:42.241Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-06T11:25:22.187Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b1f2f2fdb45729cd797ac1"
+  },
+  "userId": "66b1907bdfdbc370adec10d4",
+  "totalAmount": 3500000,
+  "shippingAddress": {
+    "street": "364 tô kí",
+    "ward": "Phường Sông Cầu",
+    "district": "Thành Phố Bắc Kạn",
+    "city": "Tỉnh Bắc Kạn"
+  },
+  "paymentMethod": "cash",
+  "status": "shipped",
+  "details": [
+    {
+      "productId": "66897c73f9068eac480fc0fa",
+      "quantity": 1,
+      "price": 3500000,
+      "_id": {
+        "$oid": "66b1f2f2fdb45729cd797ac2"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-06T09:54:58.965Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-06T11:22:54.240Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b211407e3cdbde11c8c66e"
+  },
+  "userId": "66b210f77e3cdbde11c8c65c",
+  "totalAmount": 6999000,
+  "shippingAddress": {
+    "street": "364 tô kí",
+    "ward": "Xã Đoàn Kết",
+    "district": "Huyện Đà Bắc",
+    "city": "Tỉnh Hoà Bình"
+  },
+  "paymentMethod": "cash",
+  "status": "pending",
+  "details": [
+    {
+      "productId": "669da7e9803ce633848c1bbf",
+      "quantity": 1,
+      "price": 6999000,
+      "_id": {
+        "$oid": "66b211407e3cdbde11c8c66f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-06T12:04:16.362Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-06T12:04:16.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b212d9b0e2fadebab7ca01"
+  },
+  "userId": "66b210f77e3cdbde11c8c65c",
+  "totalAmount": 6999000,
+  "shippingAddress": {
+    "street": "364 tô kí",
+    "ward": "Xã Tả Phìn",
+    "district": "Huyện Tủa Chùa",
+    "city": "Tỉnh Điện Biên"
+  },
+  "paymentMethod": "cash",
+  "status": "pending",
+  "details": [
+    {
+      "productId": "669da7e9803ce633848c1bbf",
+      "quantity": 1,
+      "price": 6999000,
+      "_id": {
+        "$oid": "66b212d9b0e2fadebab7ca02"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-06T12:11:05.855Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-06T12:11:05.855Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b21d42fb48cbaf159f4003"
+  },
+  "userId": "66b210f77e3cdbde11c8c65c",
+  "totalAmount": 6999000,
+  "shippingAddress": {
+    "street": "364 tô kí",
+    "ward": "Xã Tả Phìn",
+    "district": "Huyện Tủa Chùa",
+    "city": "Tỉnh Điện Biên"
+  },
+  "paymentMethod": "cash",
+  "status": "pending",
+  "details": [
+    {
+      "productId": "669da7e9803ce633848c1bbf",
+      "quantity": 1,
+      "price": 6999000,
+      "_id": {
+        "$oid": "66b21d42fb48cbaf159f4004"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-06T12:55:30.521Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-06T12:55:30.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b21d74fb48cbaf159f4008"
+  },
+  "userId": "66b210f77e3cdbde11c8c65c",
+  "totalAmount": 6999000,
+  "shippingAddress": {
+    "street": "364 tô kí",
+    "ward": "Xã Thanh Hải",
+    "district": "Huyện Lục Ngạn",
+    "city": "Tỉnh Bắc Giang"
+  },
+  "paymentMethod": "cash",
+  "status": "delivered",
+  "details": [
+    {
+      "productId": "669da7e9803ce633848c1bbf",
+      "quantity": 1,
+      "price": 6999000,
+      "_id": {
+        "$oid": "66b21d74fb48cbaf159f4009"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-06T12:56:20.278Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-06T13:24:23.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b2265b97d8a0e781a37a62"
+  },
+  "userId": "66b210f77e3cdbde11c8c65c",
+  "totalAmount": 3500000,
+  "shippingAddress": {
+    "street": "364 tô kí",
+    "ward": "Xã Hiệp Lực",
+    "district": "Huyện Ngân Sơn",
+    "city": "Tỉnh Bắc Kạn"
+  },
+  "paymentMethod": "cash",
+  "status": "shipped",
+  "details": [
+    {
+      "productId": "66897c73f9068eac480fc0fa",
+      "name": "Giày Nike Dunk Low ‘Grey Fog’ DD1391-103 ",
+      "quantity": 1,
+      "price": 3500000,
+      "_id": {
+        "$oid": "66b2265b97d8a0e781a37a63"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-06T13:34:19.079Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T00:30:49.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b2c107f46717921ca6ecfa"
+  },
+  "userId": "66b2c0cff46717921ca6ecef",
+  "totalAmount": 10499000,
+  "shippingAddress": {
+    "street": "364 tô kí",
+    "ward": "Xã Hoàng Nam",
+    "district": "Huyện Nghĩa Hưng",
+    "city": "Tỉnh Nam Định"
+  },
+  "paymentMethod": "card",
+  "status": "delivered",
+  "details": [
+    {
+      "productId": "669da7e9803ce633848c1bbf",
+      "name": "Giày ADIDAS SB Dunk Low J-Pack ‘Chicago’ BQ6817-600 ",
+      "quantity": 1,
+      "price": 6999000,
+      "_id": {
+        "$oid": "66b2c107f46717921ca6ecfb"
+      }
+    },
+    {
+      "productId": "66897c73f9068eac480fc0fa",
+      "name": "Giày Nike Dunk Low ‘Grey Fog’ DD1391-103 ",
+      "quantity": 1,
+      "price": 3500000,
+      "_id": {
+        "$oid": "66b2c107f46717921ca6ecfc"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-07T00:34:15.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T00:36:09.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bf93ba1ed8791abbda29b4"
+  },
+  "userId": "66bf92851ed8791abbda29a2",
+  "totalAmount": 3500000,
+  "shippingAddress": {
+    "street": "pvc",
+    "ward": "Phường Nam Sơn",
+    "district": "Thành phố Bắc Ninh",
+    "city": "Tỉnh Bắc Ninh"
+  },
+  "paymentMethod": "card",
+  "status": "cancelled",
+  "details": [
+    {
+      "productId": "66897c73f9068eac480fc0fa",
+      "name": "Giày Nike Dunk Low ‘Grey Fog’ DD1391-103 ",
+      "quantity": 1,
+      "price": 3500000,
+      "_id": {
+        "$oid": "66bf93ba1ed8791abbda29b5"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-16T18:00:26.682Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-16T18:02:04.582Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,9 @@
+{
+  "/(users)/page": "app/(users)/page.js",
+  "/(users)/cart/page": "app/(users)/cart/page.js",
+  "/(users)/profile/page": "app/(users)/profile/page.js",
+  "/(users)/checkout/page": "app/(users)/checkout/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/order/page": "app/admin/order/page.js",
+  "/(users)/orders/page": "app/(users)/orders/page.js"
+}

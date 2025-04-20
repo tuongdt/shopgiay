@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "66897943f9068eac480fc0ea"
+  },
+  "name": "ADIDAS"
+},
+{
+  "_id": {
+    "$oid": "66897991f9068eac480fc0ec"
+  },
+  "name": "NIKE"
+}]

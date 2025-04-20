@@ -1,0 +1,246 @@
+[{
+  "_id": {
+    "$oid": "66897c22f9068eac480fc0f7"
+  },
+  "name": "Giày Nike Dunk Low ‘Black White’ DD1391-100 ",
+  "category": {
+    "_id": {
+      "$oid": "66897991f9068eac480fc0ec"
+    }
+  },
+  "sale": 20,
+  "description": "Từ chương trình Colors College đến loạt sản phẩm CO.JP sôi động của Nike, giày Nike Dunk đã được thể hiện nhiều màu sắc kể từ khi thiết kế ra mắt vào năm 1985. Nhưng với mỗi màu sắc mới, giày Dunk vẫn giữ được đặc điểm color-blocking truyền thống trong một số mức nào đó. Nike đã áp dụng color-blocking truyền thống của mình vào giày Nike Dunk Low Retro White Black.\n\nPhần trên cao của giày Nike Dunk Low Retro White Black được làm bằng da trắng với các lớp phủ và Swoosh bằng da đen. Nhãn hiệu Nike classic được xuất hiện trên lưỡi dai nylon, gợi nhớ đến các yếu tố thiết kế truyền thống của giày Dunk. Đế giữa và đế ngoài bằng trắng và đen hoàn thành thiết kế.\n\nGiày Nike Dunk Low Retro White Black được phát hành vào tháng 3 năm 2021 và bán lẻ với giá 100 USD.\n\nĐể mua sắm tất cả các loại giày Nike Dunk, vui lòng click vào đây.",
+  "price": 795000,
+  "content": "Phong cách thời thượng , sản phẩm may chỉ cao cấp",
+  "image": "product-1.jpg",
+  "view": 100,
+  "inventory": 25,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "66897c73f9068eac480fc0fa"
+  },
+  "name": "Giày Nike Dunk Low ‘Grey Fog’ DD1391-103 ",
+  "category": {
+    "_id": {
+      "$oid": "66897991f9068eac480fc0ec"
+    }
+  },
+  "sale": 10,
+  "description": " Giày Nike Dunk Low Grey Fog có phần trên cao bằng da trắng với các lớp phủ và Swoosh bằng da Grey Fog. Từ đó, nhãn dán vải cân xứng, nẹp hông và đế hoàn thành thiết kế.\n\nGiày Nike Dunk Low Grey Fog được phát hành vào tháng 9 năm 2021 và bán lẻ với giá 100 USD.",
+  "price": 3500000,
+  "content": "Phong cách thời thượng , sản phẩm may chỉ cao cấp",
+  "image": "product-2.jpg",
+  "view": 50,
+  "inventory": 100,
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "669da7e9803ce633848c1bbf"
+  },
+  "name": "Giày ADIDAS SB Dunk Low J-Pack ‘Chicago’ BQ6817-600 ",
+  "category": {
+    "_id": {
+      "$oid": "66897943f9068eac480fc0ea"
+    }
+  },
+  "sale": 0,
+  "description": " Nike đã lại một lần nữa làm nên điều kỳ diệu với thiết kế giày Nike Dunk Low USC, mã số DD1391-602 với màu sắc chính thức của đội bóng Trojans thuộc Đại học Nam California.\n\nNike Dunk Low USC được làm từ chất liệu da cho phần đầu giày và cao su cho phần đế. Giày Nike Dunk Low USC có một tông màu gồm trắng, gym red và vàng phủ 90% phần đầu giày, với thương hiệu Nike màu vàng ở gót và lưỡi giày. Một phần mũi giày được làm từ chất liệu da trắng lỗ và logo Swoosh màu đỏ suede hoàn thiện thiết kế của đôi giày này.\n\nNike Dunk Low USC được phát hành với giá bán lẻ là $100 vào ngày 9 tháng 11 năm 2022.",
+  "price": 6999000,
+  "content": "Phong cách sang trọng , sản phẩm được làm bằng thủ công ",
+  "image": "product-3.jpg",
+  "view": 70,
+  "inventory": 25,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "669da96f803ce633848c1bc0"
+  },
+  "name": "Giày ADIDAS SB Dunk Low J-Pack ‘Chicago’ BQ6817-600 ",
+  "category": {
+    "_id": {
+      "$oid": "66897943f9068eac480fc0ea"
+    }
+  },
+  "sale": 0,
+  "description": " Nike đã lại một lần nữa làm nên điều kỳ diệu với thiết kế giày Nike Dunk Low USC, mã số DD1391-602 với màu sắc chính thức của đội bóng Trojans thuộc Đại học Nam California.\n\nNike Dunk Low USC được làm từ chất liệu da cho phần đầu giày và cao su cho phần đế. Giày Nike Dunk Low USC có một tông màu gồm trắng, gym red và vàng phủ 90% phần đầu giày, với thương hiệu Nike màu vàng ở gót và lưỡi giày. Một phần mũi giày được làm từ chất liệu da trắng lỗ và logo Swoosh màu đỏ suede hoàn thiện thiết kế của đôi giày này.\n\nNike Dunk Low USC được phát hành với giá bán lẻ là $100 vào ngày 9 tháng 11 năm 2022.",
+  "price": 6999000,
+  "content": "Phong cách sang trọng , sản phẩm được làm bằng thủ công ",
+  "image": "product-6.jpg",
+  "view": 70,
+  "inventory": 25,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "669da988803ce633848c1bc1"
+  },
+  "name": "Giày Nike Blazer Low ’77 ‘Pine Green’ DA4074-115 ",
+  "category": {
+    "_id": {
+      "$oid": "66897991f9068eac480fc0ec"
+    }
+  },
+  "sale": 50,
+  "description": "Áo khoác nam đến từ Anh",
+  "price": 7777000,
+  "content": "Mua Giày Nike Blazer Low ’77 ‘Pine Green’ DA4074-115 chính hãng 100% có sẵn tại Authentic Shoes. Giao hàng miễn phí trong 1 ngày. Cam kết đền tiền X5 nếu phát hiện Fake. Đổi trả miễn phí size. Mua ngay!",
+  "image": "product-4.jpg",
+  "view": 10,
+  "inventory": 255,
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "669da9be803ce633848c1bc2"
+  },
+  "name": "Giày Adidas Stan Smith Sharpie Pack Graffiti ‘White Green’ GV9800 ",
+  "category": {
+    "_id": {
+      "$oid": "66897991f9068eac480fc0ec"
+    }
+  },
+  "sale": 0,
+  "description": "Mua Giày Adidas Stan Smith Sharpie Pack Graffiti ‘White Green’ GV9800 chính hãng 100% có sẵn tại Authentic Shoes. Giao hàng miễn phí trong 1 ngày. Cam kết đền tiền X5 nếu phát hiện Fake. Đổi trả miễn phí size. FREE vệ sinh giày trọn đời. MUA NGAY!.",
+  "price": 795000,
+  "content": "Phong cách thời thượng , sản phẩm may chỉ cao cấp",
+  "image": "product-5.jpg",
+  "view": 100,
+  "inventory": 25,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "66a86c18d3f6d760a0987d4b"
+  },
+  "name": "Product Name",
+  "category": {
+    "$oid": "66897991f9068eac480fc0ec"
+  },
+  "sale": 20,
+  "description": "This is a product description.",
+  "price": 150,
+  "content": "Detailed product content here.",
+  "view": 100,
+  "inventory": 50,
+  "rating": 4,
+  "image": "1722384974579-309089228-product-bl-6.jpg",
+  "images": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "updatedAt": {
+    "$date": "2024-07-31T00:16:14.605Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a91a33a9089946a2ac4aa1"
+  },
+  "name": "Rioh",
+  "category": {
+    "$oid": "66897943f9068eac480fc0ea"
+  },
+  "sale": 11,
+  "description": "1111",
+  "price": 900000,
+  "content": "11",
+  "image": "1722358323198-717459749-2014098.jpg",
+  "images": [
+    "1722358323215-475688608-5875370.jpg"
+  ],
+  "view": 1,
+  "inventory": 1,
+  "rating": 1,
+  "createdAt": {
+    "$date": "2024-07-30T16:52:03.283Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T16:52:03.283Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a91a35a9089946a2ac4aa4"
+  },
+  "name": "Rioh",
+  "category": {
+    "$oid": "66897943f9068eac480fc0ea"
+  },
+  "sale": 11,
+  "description": "1111",
+  "price": 900000,
+  "content": "11",
+  "image": "1722358325184-436199144-2014098.jpg",
+  "images": [
+    "1722358325192-905343407-5875370.jpg"
+  ],
+  "view": 1,
+  "inventory": 1,
+  "rating": 1,
+  "createdAt": {
+    "$date": "2024-07-30T16:52:05.232Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T16:52:05.232Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a91a35a9089946a2ac4aa7"
+  },
+  "name": "Hahahaha Hu",
+  "category": {
+    "$oid": "66897991f9068eac480fc0ec"
+  },
+  "sale": 11,
+  "description": "1111",
+  "price": 900000,
+  "content": "11",
+  "image": "1722358325411-153154336-2014098.jpg",
+  "images": [
+    "1722358325417-709141786-5875370.jpg"
+  ],
+  "view": 1,
+  "inventory": 1,
+  "rating": 1,
+  "createdAt": {
+    "$date": "2024-07-30T16:52:05.447Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T17:15:46.299Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a98899cc51abc4e3853e5e"
+  },
+  "name": "Nuyen Cong Ben",
+  "category": {
+    "$oid": "66897991f9068eac480fc0ec"
+  },
+  "sale": 22,
+  "description": "ahaha",
+  "price": 12222,
+  "content": "huhu",
+  "image": "1722386749349-206872128-product-bl-6.jpg",
+  "images": [
+    "1722386584991-327566962-danhmuc-bancelona.jpg"
+  ],
+  "view": 33,
+  "inventory": 344,
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-07-31T00:43:05.058Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-31T00:45:49.364Z"
+  },
+  "__v": 0
+}]

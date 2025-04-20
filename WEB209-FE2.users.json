@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "669dc131e94d8c7485507037"
+  },
+  "username": "congben 04",
+  "email": "hi@gmail.com",
+  "password": "$2a$10$Xn4171B0h9iXPuzJT3t0ne1QsZkX8y9AiGFL9l7dLJ6oUwEJ0VKPe",
+  "phone": "0869959080",
+  "address": "30",
+  "role": "user",
+  "createdAt": {
+    "$date": "2024-07-22T02:17:21.007Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac31ee98a34006b036255e"
+  },
+  "username": "ben",
+  "email": "ncb301104@gmail.com",
+  "password": "$2a$10$g8zQ7wC2ezpRoFIl90RAJerTspimoR5PEJeOtIX/PlKIYD0sPA0zm",
+  "phone": "0869959080",
+  "address": "364 tô kí",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2024-08-02T01:10:06.496Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac368398a34006b03625fc"
+  },
+  "username": "nhịn",
+  "email": "a@gmail.com",
+  "password": "$2a$10$XfyE.e8EBhmo3TlYshvs4uB9rAGU/WNXdhYCepQdaVYeoeT5MM7Ii",
+  "phone": "0869959080",
+  "address": "364 tô kí",
+  "role": "user",
+  "createdAt": {
+    "$date": "2024-08-02T01:29:39.151Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac3c599e794666ca28b5cf"
+  },
+  "username": "thầy cường ",
+  "email": "thaycuong@gmail.com",
+  "password": "$2a$10$UqyHt9HOPA5JZvRXjuNr7OxVChVO/qeLIEo5DvWhtlwlG7c5Q2Nm6",
+  "phone": "0869959080",
+  "address": "364 tô kí",
+  "role": "user",
+  "createdAt": {
+    "$date": "2024-08-02T01:54:33.087Z"
+  },
+  "__v": 0
+}]
